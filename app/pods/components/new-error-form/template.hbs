@@ -1,0 +1,30 @@
+<form class="form-horizontal" method="post" data-toggle="validator">
+    <fieldset>
+        <div class="form-group {{if errors.location "has-error"}}">
+            <label for="helyszin" class="col-lg-2 control-label">Műfaj:</label>
+            <div class="col-lg-10">
+                <select class="form-control" id="helyszin" name="helyszin" required>
+                    <option value="Akció" selected>Akció</option>
+                    <option value="Vígjáték">Vígjáték</option>
+                    <option value="Horror">Horror</option>
+                    <option value="Thriller">Thriller</option>
+                </select>
+                <div class="help-block with-errors">{{errors.location}}</div>
+            </div>
+        </div>
+        <div class="form-group {{if errors.description "has-error"}}">
+            <label for="leiras" class="col-lg-2 control-label">Filmcím:</label>
+            <div class="col-lg-10">
+                <textarea required class="form-control" rows="3" id="leiras" name="leiras">{{data.description}}</textarea>
+                <span class="help-block">A műfajt és a filcímet kötelező megadni!</span>
+                <div class="help-block with-errors">{{errors.description}}</div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-lg-10 col-lg-offset-2">
+                <button type="reset" class="btn btn-default">Mégse</button>
+                <button {{action "submit"}} class="btn btn-primary">Mehet</button>
+            </div>
+        </div>
+    </fieldset>
+</form>        
