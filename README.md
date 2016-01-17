@@ -60,14 +60,14 @@ A program nem kezel külön felhasználókat. Így mindenki egyetlen, adott adat
 
 ###Mappaszerkezet
 
-*app/
-*config/
-*dist/
-*public/
-*tests/
-*tmp/
-*vendor/
-*README.md
+* app/
+* config/
+* dist/
+* public/
+* tests/
+* tmp/
+* vendor/
+* README.md
 
 
 ### A futtatáshoz szükséges az alábbiak megléte
