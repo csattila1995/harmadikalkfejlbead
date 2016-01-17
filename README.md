@@ -18,7 +18,7 @@ A cél egy webes vastagkliens, azaz egyoldalas alkalmazás megvalósítása Embe
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-*A feladat témája opcionális. A kódtárban szereplő feladat egy elemi filmes adatbázisról szól. Az alapötletet az IMDB My Movies List szolgáltatta, de jelen beadandó esetén nem volt követelmény egy hasonló komplexitású site létrehozása, így ez csak a legegyszerűbb funkciókat tartalmazza.*
+>A feladat témája opcionális. A kódtárban szereplő feladat egy elemi filmes adatbázisról szól. Az alapötletet az IMDB My Movies List >szolgáltatta, de jelen beadandó esetén nem volt követelmény egy hasonló komplexitású site létrehozása, így ez csak a legegyszerűbb >funkciókat tartalmazza.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
