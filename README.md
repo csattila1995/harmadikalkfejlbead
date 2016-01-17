@@ -3,7 +3,7 @@
 
 ###A feladat leírása
 
-*A cél egy webes vastagkliens, azaz egyoldalas alkalmazás megvalósítása Ember.js segítségével. A feladatot illetően lehet a szerveroldali alkalmazásnak egy kliensoldali változata, de másik feladat is választható.* 
+**A cél egy webes vastagkliens, azaz egyoldalas alkalmazás megvalósítása Ember.js segítségével. A feladatot illetően lehet a szerveroldali alkalmazásnak egy kliensoldali változata, de másik feladat is választható.**
 
 **A feladatra vonatkozó funkcionális elvárások a megrendelő részéről:**
 
