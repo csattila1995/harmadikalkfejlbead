@@ -1,6 +1,8 @@
 #Alkalmazások fejlesztése - 3. beadandó feladat
 ##2016.01.10
 
+Készítette: Császári Attila (TTDFU6)
+
 ###A feladat leírása
 
 A cél egy webes vastagkliens, azaz egyoldalas alkalmazás megvalósítása Ember.js segítségével. A feladatot illetően lehet a szerveroldali alkalmazásnak egy kliensoldali változata, de másik feladat is választható.
