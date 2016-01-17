@@ -34,15 +34,15 @@ Böngészőben történő futtatáshoz a *Serving on http://localhost:8080/* fel
 
 ###Végpontok
 
-Főoldal: (http://alkfejl-masodikbead-csattila1995.c9users.io)
+Főoldal: http://alkfejl-masodikbead-csattila1995.c9users.io
 
-Lista megtekintése: (http://alkfejl-masodikbead-csattila1995.c9users.io/errors/list)
+Lista megtekintése: http://alkfejl-masodikbead-csattila1995.c9users.io/errors/list
 
-Új film felvitele: (http://alkfejl-masodikbead-csattila1995.c9users.io/errors/new)
+Új film felvitele: http://alkfejl-masodikbead-csattila1995.c9users.io/errors/new
 
-**Egy bizonyos film megtekintése: (http://alkfejl-masodikbead-csattila1995.c9users.io/errors)**
+**Egy bizonyos film megtekintése: http://alkfejl-masodikbead-csattila1995.c9users.io/errors**
 
-**Módosítás: (http://alkfejl-masodikbead-csattila1995.c9users.io/errors/edit)**
+**Módosítás: http://alkfejl-masodikbead-csattila1995.c9users.io/errors/edit**
 
 ###Adatmodell
 
