@@ -28,6 +28,10 @@ A program repozitorijának kezdőoldalánál letölthetjük a projektet .zip for
 
 Böngészőben történő futtatáshoz a *Serving on http://localhost:8080/* feliratra kell mennünk a c9 commandline-jában.
 
+###Drótvázterv(design):
+
+![drotterv](http://i.imgur.com/I0x6tmJ.png)
+
 ###Végpontok
 
 Főoldal: (http://alkfejl-masodikbead-csattila1995.c9users.io)
