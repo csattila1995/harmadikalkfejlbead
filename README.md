@@ -28,7 +28,7 @@ A cél egy webes vastagkliens, azaz egyoldalas alkalmazás megvalósítása Embe
 * Egyet a szervernek, amely jelen esetben az órán elkészített RestAPIt tartalmazza
 * Egyet magának a projektnek
 
-A program repozitorijának kezdőoldalánál letölthetjük a projektet .zip formátumban. A Cloud9-re való felmásolás és kitömörítés után megjelenik a megfelelő mappaszerkezet. A projektünket össze kell kötni a saját szerverünkkel. Ezt úgy tudjuk megtenni, hogy a szerver URLjét kimásolva beillesztjük azt a projekten belül a */app/pods/application/adapter.js* fájl host: utáni részébe. A hiányzó modulokat telepíteni kell, melyet az `npm install <modulneve>` paranccsal tudunk megtenni. Ha már minden modul instalálásra került, akkor el kell indítanunk a szerver projektjén belül található server_kurzus1.js-t, valamint a projekten belül ki kell adnunk a következő parancsot: `./node_modules/ember-cli/bin/ember server`.
+A program repozitorijának kezdőoldalánál letölthetjük a projektet .zip formátumban. A Cloud9-re való felmásolás és kitömörítés után megjelenik a megfelelő mappaszerkezet. A projektünket össze kell kötni a saját szerverünkkel. Ezt úgy tudjuk megtenni, hogy a szerver URLjét kimásolva beillesztjük azt a projekten belül a */app/pods/application/adapter.js* fájl host: utáni részébe. A hiányzó modulokat telepíteni kell, melyet az `npm install <modulneve>` paranccsal tudunk megtenni. Ha már minden modul instalálásra került, akkor el kell indítanunk a szervernél található server_kurzus1.js-t, valamint a kliensen belül adjuk ki a következő parancsot: `./node_modules/ember-cli/bin/ember server`!
 
 Böngészőben történő futtatáshoz a *Serving on http://localhost:8080/* feliratra kell mennünk a c9 commandline-jában.
 
