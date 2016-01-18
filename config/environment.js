@@ -24,7 +24,7 @@ module.exports = function(environment) {
       'default-src': "'none'",
       'script-src': "'self'",
       'font-src': "'self' 'unsafe-eval' https://fonts.gstatic.com",
-      'connect-src': "'self' 'unsafe-eval' http://alkfejl-rest-itamas.c9users.io",
+      'connect-src': "'self' 'unsafe-eval' https://restapi-csattila1995.c9users.io",
       'img-src': "'self'",
       'style-src': "'self' 'unsafe-eval' https://fonts.googleapis.com",
       'media-src': "'self'"
